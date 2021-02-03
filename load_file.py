@@ -1,8 +1,3 @@
-import os
-if not os.path.exists('/content/DeOldify/video'):
-    os.makedirs('/content/DeOldify/video/source')
-%cd "/content/DeOldify/video/source"
-
 from google.colab import files
 import subprocess
 import subprocess

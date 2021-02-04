@@ -9,7 +9,7 @@ from tensorboardX import SummaryWriter
 from scipy import misc
 from PIL import Image
 import ffmpeg
-import youtube_dl
+#import youtube_dl
 import gc
 import requests
 from io import BytesIO

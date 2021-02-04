@@ -3,5 +3,4 @@ wandb
 tensorboardX==1.6
 ffmpeg
 ffmpeg-python==0.1.17
-opencv-python>=3.3.0.10
-pillow
+pillow==6.2.2
